@@ -20,7 +20,7 @@ from sklearn.metrics import (
     matthews_corrcoef,
 )
 
-DATA_FILE = "dataset.xlsx"
+DATA_FILE = "model/dataset.xlsx"
 TARGET_COL = "Class"
 MODEL_DIR = "model"
 
